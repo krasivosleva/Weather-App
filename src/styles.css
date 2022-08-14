@@ -54,3 +54,8 @@ body {
     margin-bottom: 20px;
   }
   
+  .github-link {
+    position: relative;
+    display: block;
+    margin-left: 55px;
+  }
